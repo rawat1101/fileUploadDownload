@@ -1,0 +1,2 @@
+name,displayName,description,imageUrls,price,rank,brandId,categoryId,sellerId,clientIds,productUrl,sourceType,productType,sellerProductId,active,termsAndCondition
+UPLOADER_gyfter,UPLOADER_GYFTR,"Swiggy is an Indian online food ordering",https://image.timespoints.iimg.in/product/images/Zoomin2.jpg,20,1,60c874af6201bf4ef8c3dbeb,60c9b99b6201bf4ef8c3dcad,62eb5d4d3b001a4478f84d4c,6303701612d3b434b0e89240,https://www.gyftr.com,EXTERNAL,VOUCHER,b360368f-f4de-475a-b718-23f2bcff5625_inv,TRUE,NA
