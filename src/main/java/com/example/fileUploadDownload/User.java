@@ -15,7 +15,7 @@ public class User {
     @CsvBindByPosition(position = 2)
 
     private String countryCode;
-    @CsvBindAndSplitByPosition(collectionType = ArrayList.class, writeDelimiter = ";", elementType = String.class, position = 3)
+    @CsvBindAndSplitByPosition(collectionType = ArrayList.class, writeDelimiter = "##",splitOn = "##",elementType = String.class, position = 3)
     private List<String> no;
 
     public User() {
