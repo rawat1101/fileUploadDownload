@@ -1,10 +1,12 @@
 package com.example.fileUploadDownload;
 
 import com.opencsv.bean.*;
+import lombok.Data;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Data
 public class User {
     @CsvBindByPosition(position = 0)
 
